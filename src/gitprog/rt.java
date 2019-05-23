@@ -8,6 +8,7 @@ public class rt {
 		System.out.println(456);
 		System.out.println(789);
 		System.out.println("new");
+		System.out.println("new1");
 	}
 
 }
