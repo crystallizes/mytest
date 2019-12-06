@@ -13,6 +13,7 @@ public class rt {
 		System.out.println("new6");
 		System.out.println("new7");
 		System.out.println("new8");
+		System.out.println("new9");
 	}
 
 }
