@@ -9,6 +9,7 @@ public class rt {
 		System.out.println("new3");
 		System.out.println("new4");
 		System.out.println("new5");
+		System.out.println("new6");
 	}
 
 }
